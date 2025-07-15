@@ -193,4 +193,4 @@ if (Key.isDown(Key.A)) {
 - HTML5 + JavaScript
 - Three.js
 
-**Autores:** Henrique GC | Vitor Kauã
+**Autores:** Henrique GC | Vitor Kauã| Matheus 
